@@ -4,11 +4,11 @@ nav {
   
   
   li, h3, button, h5 {
-    font-family: "Montserrat-Bold", sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p {
-    font-family: "Montserrat-Light", sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .jumbotron {
@@ -25,11 +25,17 @@ p {
     color: white;
     border-color:white;
     background-color: #0A8E84;
+    height: 45px;
+    width: 200px;
 }
 
 img {
     display: block;
     margin: auto;
+}
+
+.white-text h3 p{
+    color: white;
 }
 
 #phone {
@@ -77,12 +83,17 @@ li {
 }
 
 .buttons {
+    font-family: 'Montserrat';
+    font-size: 16px;
     border-style: solid;
     color: #696e7c;
     border-color: #696e7c;
     background-color: white;
+    height: 45px;
+    width: 150px;
 }
 
 .gray-text li a{
     color: gray;
 }
+
