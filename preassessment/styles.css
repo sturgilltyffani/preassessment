@@ -1,0 +1,122 @@
+nav {
+    height: 100px;
+}
+  
+  
+  li, h3, button, h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    background-color: #0A8E84;
+}
+
+#container1 {
+    margin-bottom: 5%;
+}
+
+.container2 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#main-text {
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+#button1 {
+    border-style: solid;
+    font-weight: bold;
+    color: white;
+    border-color:white;
+    background-color: #0A8E84;
+    height: 45px;
+    width: 200px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#container2 img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: 40%;
+}
+
+.white-text h3 p{
+    color: white;
+}
+
+#phone {
+    height: 25%;
+    width: 25%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.nav-wrapper {
+    background-color: white;
+}
+
+.brand-logo {
+    margin-left: 100px;
+    padding-left: 100px;
+    margin-top: 8px;
+    padding-top: 8px;
+}
+
+
+.righthide-on-med-and-down {
+    margin-right: 30px;
+    padding-right: 30px;
+}
+
+#navlist {
+    margin-top: 8px;
+    padding-top: 8px;
+}
+
+li {
+    display: block;
+    text-align: center;
+    width: 120px; /* fixed width */
+}
+
+.center-align {
+    position: center;
+}
+
+#pic-phone {
+    height: 65%;
+    width: 65%;
+}
+
+.buttons {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    border-style: solid;
+    color: #696e7c;
+    font-weight: bold;
+    border-color: #696e7c;
+    background-color: white;
+    height: 45px;
+    width: 150px;
+}
+
+.gray-text li a{
+    color: gray;
+}
+
+#eins, #zwei, #drei {
+    color: gray !Important;
+}
